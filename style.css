@@ -1,0 +1,38 @@
+body{
+                      margin: 0 auto;
+                      padding: 0 auto;
+                      font-family: 'Covered By Your Grace', cursive;
+                    background-image:url('background.jpg');
+                      background-size: 100%;
+                      
+                    }
+                    .jumbotron {
+                      margin-left:25%;
+                      margin-right:25%;
+                      margin-top:5%;
+                      margin-bottom: 5%;
+                      padding: 0 ;
+                      width: 50%;
+                      background-color:#6e3a07;
+                      color:white;
+                      font-size: 40px;
+                      
+                    }
+                    cite {
+                      font-size: 35px;
+                      color:white;
+                    }
+
+                    .btn {
+                      margin-top: 10px;
+                      width:50%;
+                      margin-left: 25%;
+                      margin-right: 25%;
+                      
+                    }
+
+                    .container {
+                      margin-top: 5%;
+                    }
+
+                 
